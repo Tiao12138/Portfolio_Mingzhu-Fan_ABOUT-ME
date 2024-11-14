@@ -155,7 +155,7 @@ img.quetta3{
   padding-right: 40px;
   margin-top: 0px;
   margin-left: 2rem;
-  width:40%;
+  width:40vw;
   overflow: auto;
   font-size: 1rem;
 
@@ -164,7 +164,7 @@ img.quetta3{
 .profilecol{
   margin-top: 2.5rem;
   color: #444444;
-  width: 24%;
+  width: 26vw;
   padding-left: 0rem;
   text-align: left;
   font-size: 1rem;
